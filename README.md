@@ -9,8 +9,8 @@ Requirements;
 
 Running Command;
 
-sudo chmod 777 ssl.sh
-./ssl.sh
+sudo chmod 777 ssl.sh  
+./ssl.sh  
 docker-compose up -d
 
 Note : 
